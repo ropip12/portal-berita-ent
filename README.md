@@ -1,6 +1,5 @@
 # portal-berita-ent
-Portal Berita ENT PENS adalah sebuah website berita yang dikembangkan untuk organisasi ENT PENS.
-Deskripsi Project
+
 Portal Berita ENT PENS adalah sebuah website berita yang dikembangkan untuk organisasi ENT PENS. Website ini terdiri dari dua bagian utama:
 
 Frontend untuk Pengunjung: Halaman beranda yang menampilkan berita terbaru, halaman detail berita, dan halaman kategori berita.
